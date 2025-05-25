@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAPatient", "QAPatient.csproj", "{BF13D19F-8BDC-4CC8-9C3E-8B4C43ED2253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF13D19F-8BDC-4CC8-9C3E-8B4C43ED2253}.Debug|x64.ActiveCfg = Debug|x64
+		{BF13D19F-8BDC-4CC8-9C3E-8B4C43ED2253}.Debug|x64.Build.0 = Debug|x64
+		{BF13D19F-8BDC-4CC8-9C3E-8B4C43ED2253}.Release|x64.ActiveCfg = Release|x64
+		{BF13D19F-8BDC-4CC8-9C3E-8B4C43ED2253}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC2D948E-B7F1-4234-8CBB-11B91A6E065F}
+	EndGlobalSection
+EndGlobal
